@@ -1,1 +1,2 @@
-Aprendendo Git e GitHub
+Aprendendo Git/GitHub
+com Fabricyo
